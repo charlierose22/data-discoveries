@@ -1,8 +1,8 @@
 ---
-title: Data Discoveries 2023
+title: The future is data-driven.
 ---
 
-### The future is data-driven.
+## 19/06/2023 - 30/06/2023, University of York
 
 
 Data science is one of the most in-demand skills in the world today, and you will likely use it more than you think. Data Discoveries is a two-week interdisciplinary showcase that will explore how data is used in both research and industry. With events and talks spanning a wide range of subjects, you'll have the chance to network, appreciate the breadth of data science at York, and pick up an idea or two for your own data challenges.
