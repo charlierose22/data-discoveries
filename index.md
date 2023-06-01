@@ -1,4 +1,6 @@
-# Data Discoveries 2023
+---
+title: Data Discoveries 2023
+---
 
 ### The future is data-driven.
 
