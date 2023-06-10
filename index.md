@@ -10,4 +10,6 @@ Data science is one of the most in-demand skills in the world today, and you wil
 
 Join us at the University of York, between **Monday 19th and Friday 30th June** for an exciting series of events celebrating all things data!
 
-<div align="center"> Look out for our DIVINE Data competition, with prizes up for grabs!
+<div align="center">
+
+Look out for our DIVINE Data competition, with prizes up for grabs!
