@@ -4,8 +4,7 @@ plugins:
 
 seo:
   title: Data Discoveries 2023
-  description:'Data Discoveries' event held at the University of York.
-
+  
 nav:
   - label: Home
     page: index.md
