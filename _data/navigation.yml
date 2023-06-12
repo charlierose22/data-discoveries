@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: 
   - title: "About"
-    url: 
+    url: _pages/about.md
   - title: "Competition"
-    url:
+    url: _pages/competition.md
   - title: "Schedule"
-    url: 
+    url: _pages/schedule.md
   - title: "Speakers"
-    url:
+    url: _pages/speakers.md
