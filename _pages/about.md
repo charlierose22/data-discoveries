@@ -2,8 +2,12 @@
 permalink: /about/
 title: "About"
 layout: single
+header:
+  overlay_image: /assets/images/pexels-manuel-geissinger-14990192.jpg
+  overlay_filter: rgba(0, 0, 0, 0.3)
 sidebar:
-- title: ---
+- title: ""
+  image_alt: ""
 - title: When?
   image_alt: ""
   text: "19th - 30th June 2023"
