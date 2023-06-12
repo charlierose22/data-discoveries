@@ -55,8 +55,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Charlie Head"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Data Discoveries"
+  avatar : "/assets/images/logo.png"
 
 footer:
   links:
