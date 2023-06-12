@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-layout: schedule
+layout: single
 permalink: /schedule/
 author_profile: false
 ---
