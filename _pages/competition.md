@@ -26,5 +26,21 @@ sidebar:
 
 ## How to participate:
 
+To enter, participants must be either current undergraduate or postgraduate students, or recent alumni who finished their courses in 2023.
+
 ### Submit your entry using this form: https://forms.gle/mQFYiRWK3v5ccAvSA
 
+A jury will select winners based on:
+* Creative use of graphics
+* Overall visual appeal
+* Originality
+* Ease of interpretation
+
+Prize winners will be announced at the closing ceremony on **Wednesday 5th July 2023**.
+
+There will be two sets of prizes, split between undergraduates and postgraduates.
+1st – Certificate and prize money of £100
+2nd – Certificate and prize money of £50
+3rd – Certificate and prize money of £25
+
+### Good luck!
