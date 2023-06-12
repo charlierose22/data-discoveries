@@ -1,6 +1,6 @@
 ---
 title: "Speakers"
 permalink: /speakers/
-layout: speakers
+layout: single
 author_profile: false
 ---
