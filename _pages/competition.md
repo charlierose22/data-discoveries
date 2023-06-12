@@ -3,8 +3,12 @@ title: "DI.VI.N.E Data Competition"
 permalink: /competition/
 layout: single
 author_profile: false
+header:
+  overlay_image: /assets/images/pexels-ds-stories-7267588.jpg
+  overlay_filter: rgba(0, 0, 0, 0.3)
 sidebar:
-- title: ---
+- title: ""
+  image_alt: ""
 - title: When?
   image_alt: ""
   text: "19th - 30th June 2023"
