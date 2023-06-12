@@ -2,7 +2,7 @@ title: "Data Discoveries 2023"
 logo: ""
 description: "Data Discoveries Event 2023 at the University of York"
 
-# minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "aqua"
 search: true
 
 author:
@@ -11,8 +11,6 @@ author:
   bio      : "Something"
   location : "Somewhere"
 
-footer:
-
 kramdown:
   auto_ids: false
 
@@ -20,6 +18,8 @@ plugins:
   - jekyll-include-cache
 
 remote_theme: mmistakes/minimal-mistakes
+
+includes: ["_pages"]
 
 atom_feed: false
 
