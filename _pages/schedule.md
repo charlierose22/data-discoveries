@@ -18,4 +18,24 @@ sidebar:
                 width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_3b249f6a8e7c2a81dc52bf3e8d33f90d3e8ff4414c580136ef19058c3f2c2f17%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+# Launch Event
+
+### When?
+Monday 19th June 2023
+1100 - 1400
+
+### Where?
+B/M/052, next to the Biology Atrium, University of York Campus West
+
+### Keynote/s
+**Cristin Merrit**: Sustainable High Performance Computing (HPC) through Open-Source 
+
+### Tickets
+https://www.eventbrite.co.uk/e/652080740047
+
+# More events to be added shortly.
+
+## Access the schedule calendar here:
+<p> <iframe src="https://calendar.google.com/calendar/embed?src=c_3b249f6a8e7c2a81dc52bf3e8d33f90d3e8ff4414c580136ef19058c3f2c2f17%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </p>
