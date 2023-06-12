@@ -11,14 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 remote_theme           :"mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt"
+minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-GB"
 title                    : "Data Discoveries 2023"
 title_separator          : "-"
 subtitle                 : "The future is data-driven.
-name                     : "Charlotte Head"
+name                     : "Charlotte Head, Data Discoveries"
 description              : "Event Website for 2023"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
