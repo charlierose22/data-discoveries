@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 header:
-  overlay_image: /assets/images/pexels-manuel-geissinger-14990192.jpg
+  overlay_image: /assets/images/pexels-christina-morillo-1181354.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
 sidebar:
 - title: ""
