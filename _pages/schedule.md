@@ -3,8 +3,12 @@ title: "Schedule"
 layout: single
 permalink: /schedule/
 author_profile: false
+header:
+  overlay_image: /assets/images/pexels-christina-morillo-1181345.jpg
+  overlay_filter: rgba(0, 0, 0, 0.3)
 sidebar:
-- title: ---
+- title: ""
+  image_alt: ""
 - title: When?
   image_alt: ""
   text: "19th - 30th June 2023"
