@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Data Discoveries 2023"
-email:
+email: 
 description: "Event website for Data Discoveries 2023 at the University of York."
 twitter_username: "scicharlie"
 github_username: "charlierose22"
@@ -25,7 +25,7 @@ search: false
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -55,30 +55,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Data Discoveries"
+  name   : "Charlie Head"
   avatar : "/assets/images/bio-photo.jpg"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Charlie's Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/scicharlie"
-    - label: "GitHub"
+    - label: "Charlie's GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/charlierose22"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -86,10 +75,3 @@ defaults:
     values:
       layout: single
       author_profile: false
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
