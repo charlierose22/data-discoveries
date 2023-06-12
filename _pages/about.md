@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 sidebar:
+- title: ---
 - title: When?
   image_alt: ""
   text: "19th - 30th June 2023"
