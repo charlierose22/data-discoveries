@@ -1,6 +1,6 @@
 ---
 title: Data Discoveries 2023
-layout: home
+layout: default
 author_profile: false
 ---
 
