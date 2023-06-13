@@ -18,9 +18,10 @@ sidebar:
                 width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ---
 
-# DIVINE Data - DIscovering, Visualising, INnovating and Exploring Data
+# DI.V.IN.E Data
+**DI**scovering, **V**isualising, **IN**novating and **E**xploring Data
 
-#### *The tl;dr of this competition is to pick a piece of data, visualise it and create an infographic around it, briefly explaining the project.*
+#### *The tl;dr of this competition is to choose some data, visualise it and create an infographic around it, briefly explaining the project.*
 
 ### This competition will close at 5pm on Friday 30th June.
 
@@ -28,7 +29,12 @@ sidebar:
 
 To enter, participants must be either current undergraduate or postgraduate students, or recent alumni who finished their courses in 2023.
 
-### Submit your entry using this form: https://forms.gle/mQFYiRWK3v5ccAvSA
+Select some interesting data, create a visualisation for it, then produce an infographic to go with it. This must all fit in a document or image that is **A4** sized.
+For clarity, A4 is equal to 210 x 297 mm	or 8.3 x 11.7 inches.
+
+Your data must be understandable and simply explained within this A4 size.
+
+### Submit your entry using [this form.](https://forms.gle/mQFYiRWK3v5ccAvSA)
 
 A jury will select winners based on:
 * Creative use of graphics
@@ -39,8 +45,8 @@ A jury will select winners based on:
 Prize winners will be announced at the closing ceremony on **Wednesday 5th July 2023**.
 
 There will be two sets of prizes, split between undergraduates and postgraduates.
-1st – Certificate and prize money of £100
-2nd – Certificate and prize money of £50
-3rd – Certificate and prize money of £25
+* 1st – Certificate and £100
+* 2nd – Certificate and £50
+* 3rd – Certificate and £25
 
 ### Good luck!
