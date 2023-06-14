@@ -53,12 +53,12 @@ There will be two sets of prizes, split between undergraduates and postgraduates
 There is a wide variety of data visualisations that may provide inspiration for your infographics. Some of these will be on show during the talks throughout the Data Discoveries event series, however, below are some resources that may provide additional inspiration or guidance:
 
 * [Check out the University of York Data Visualisation Skills Guide:](https://subjectguides.york.ac.uk/skills/data-visualisation)
-** [including 60 inspiring visualisations](https://drive.google.com/file/d/1gei-dy58BKy_XstXYjVq1hwFqPuWGS_4/view)
-** [and principles of data visualisation](https://docs.google.com/presentation/d/16ijXTs8ra-U5We425HK7AjvjbnWmnWsuZrJTP6NXGoE/edit#slide=id.p1)
+* [including 60 inspiring visualisations](https://drive.google.com/file/d/1gei-dy58BKy_XstXYjVq1hwFqPuWGS_4/view)
+* [and principles of data visualisation](https://docs.google.com/presentation/d/16ijXTs8ra-U5We425HK7AjvjbnWmnWsuZrJTP6NXGoE/edit#slide=id.p1)
 * Tools for data visualisation:
-** [Piktochart](https://piktochart.com/)
-** [Infogram](https://infogram.com/)
-** [Canva](https://www.canva.com/design/play?category=tACFahzNhT4&type=TABQqtO7tYQ)
+* [Piktochart](https://piktochart.com/)
+* [Infogram](https://infogram.com/)
+* [Canva](https://www.canva.com/design/play?category=tACFahzNhT4&type=TABQqtO7tYQ)
 * For more inspiration:
 * [Gapminder's visualisations to understand a changing world](https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1)
 * [R Graph Gallery](https://r-graph-gallery.com/)
