@@ -42,11 +42,29 @@ A jury will select winners based on:
 * Originality
 * Ease of interpretation
 
-Prize winners will be announced at the closing ceremony on **Wednesday 5th July 2023**.
+Prize winners will be announced at the closing ceremony on **Wednesday 5th July 2023** in B/T/005 between 2-4pm.
 
 There will be two sets of prizes, split between undergraduates and postgraduates.
 * 1st – Certificate and £100
 * 2nd – Certificate and £50
 * 3rd – Certificate and £25
+
+## Possible sources of inspiration
+There is a wide variety of data visualisations that may provide inspiration for your infographics. Some of these will be on show during the talks throughout the Data Discoveries event series, however, below are some resources that may provide additional inspiration or guidance:
+
+* [Check out the University of York Data Visualisation Skills Guide:](https://subjectguides.york.ac.uk/skills/data-visualisation)
+** [including 60 inspiring visualisations](https://drive.google.com/file/d/1gei-dy58BKy_XstXYjVq1hwFqPuWGS_4/view)
+** [and principles of data visualisation](https://docs.google.com/presentation/d/16ijXTs8ra-U5We425HK7AjvjbnWmnWsuZrJTP6NXGoE/edit#slide=id.p1)
+* Tools for data visualisation:
+** [Piktochart](https://piktochart.com/)
+** [Infogram](https://infogram.com/)
+** [Canva](https://www.canva.com/design/play?category=tACFahzNhT4&type=TABQqtO7tYQ)
+* For more inspiration:
+* [Gapminder's visualisations to understand a changing world](https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1)
+* [R Graph Gallery](https://r-graph-gallery.com/)
+* [Python Graph Gallery](https://www.python-graph-gallery.com/)
+* [Dataviz Inspiration](https://www.dataviz-inspiration.com/)
+
+There is lots of inspiration out there that might help inspire you to transform the data you already have into an impactful and beautiful visualisation that might just be the winner of the competition. The judging panel is excited to see what you come up with.
 
 ### Good luck!
