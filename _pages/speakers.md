@@ -20,7 +20,7 @@ sidebar:
 
 # Speakers
 
-## Emma Barnes
+## Dr. Emma Barnes
 *Head of Research IT, IT Services*
 
 ### How Can RSEs Enhance Your Research?
