@@ -99,7 +99,7 @@ A "code-along" tutorial on creating: shot; pass and possession maps in R. (Suita
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660287596977)
 
 ## Dr. Philip Harrison
-*Lecturer, Language and Linguistic Science*
+Research Software Engineer Team Lead
 
 ### How Can RSEs Enhance Your Research?
 
