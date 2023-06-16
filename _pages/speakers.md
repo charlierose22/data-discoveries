@@ -20,7 +20,7 @@ sidebar:
 
 # Speakers
 
-# Monday 19th June
+# Monday 19th June - Launch Event
 
 ## Cristin Merrit
 *Chief Marketing Officer, Alces Flight*
@@ -40,7 +40,7 @@ HPC is one of the most time, cost, and energy intensive forms of computing today
 **When?** - Monday 19th June - Launch Event -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/652080740047)
 
-# Tuesday 20th June
+# Tuesday 20th June - Selection Box 1
 
 ## Dr. Alastair Droop
 *Data Science Lab Head, Biology Technology Facility*
@@ -62,9 +62,7 @@ I discuss what properties of the voice automatic speaker recognition systems are
 **When?** - Tuesday 20th June - Selection Box 1 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/658402097397)
 
-## TBC
-
-# Wednesday 21st June
+# Wednesday 21st June - ONLINE
 
 ## The Role of Wikidata Within the Research Lifecycle
 *White Rose Libraries, ONLINE event.*
@@ -72,6 +70,7 @@ I discuss what properties of the voice automatic speaker recognition systems are
 This is a White Rose Libraries co-hosted event at the University of York library based around advocacy for the use of Wikidata within the research lifecycle. We are bringing together researchers and professionals from across the three institutions and Wikimedia UK to showcase the use of Wikidata, a free linked database of secondary data that can be read and edited by both humans and machines, in their research. The event will start with a presentation from Martin Poulter, a trainer and adviser to academics, librarians, and other experts on how to work with open projects such as Wikidata and Wikipedia. He will be addressing the strengths of Wikidata for Digital Humanities. We will also be hosting two members of Wikimedia UK: Dr. Richard Nevell, Programme Manager and Connected Heritage Programme Lead, and Dr. Lucy Hinnie, Digital Skills Wikimedian. Dr Fran Allfrey, Postdoctoral Research Associate at the Department of Archaeology, University of York, will be talking to us about Medieval Wiki: learnings from editing wikidata with medieval scholars. The Medieval Wiki project page is [here.](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_MedievalWiki) Finally, Ruth Elder, Collections Management Spcialist at the University of York, will give us an insight into the collaborative work with adding information to Wikidata from their respective university libraries’s theses repository.
 
 ### Dr. Martin Poulter
+*Economics Network ICT Manager, University of Bristol; "Wikimedian in Residence", [Khalili Foundation](https://www.khalili.foundation/)*
 ### Dr. Lucy Hinnie
 *Digital Skills Wikimedian, Wikimedia UK*
 ### Dr. Richard Nevell
@@ -84,7 +83,7 @@ This is a White Rose Libraries co-hosted event at the University of York library
 **When?** - Wednesday 21st June - The Role of Wikidata Within the Research Lifecycle -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/the-role-of-wikidata-within-the-research-lifecycle-tickets-637971609257)
 
-# Wednesday 21st June
+# Wednesday 21st June - Selection Box 2
 
 ## Dr. Brennen Fagan
 *Research Associate, Mathematics*
@@ -106,9 +105,7 @@ A brief overview of my Raspberry Pi-powered environmental data collection and an
 **When?** - Wednesday 21st June - Selection Box 2 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660285360287)
 
-## TBC
-
-# Monday 26th June
+# Monday 26th June - Selection Box 3
 
 ## Dr. Philip Garnett
 *Senior Lecturer, Management; Society And Ethics Pillar Lead, Institute for Safe Autonomy*
@@ -130,7 +127,7 @@ Getting useful data from experiment to model in atmospheric chemistry, from expe
 **When?** - Monday 26th June - Selection Box 3 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660291699247)
 
-# Tuesday 27th June
+# Tuesday 27th June - Selection Box 4
 
 ## Dr. Jessica Hargreaves
 *Lecturer in Data Science, Mathematics*
@@ -176,7 +173,7 @@ We all know our phones are treasure troves of personal data. One aspect of this 
 **When?** - Tuesday 27th June - "How can RSEs enhance your research?" -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/657713327267)
 
-# Thursday 29th June
+# Thursday 29th June - Selection Box 5
 
 ## Dr. Cyclia Bolibaugh
 *Lecturer, Education*
@@ -191,20 +188,16 @@ Colleagues in the life sciences have accelerated and democratised research by cr
 ## Dr. Malak Olamaie
 *Senior lecturer in Bayesian Data Science, York St. John University*
 
-### TBC
-
 **When?** - Thursday 29th June - Selection Box 5 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660292682187)
 
 ## Monika Gonka
 *PhD Student, Biology*
 
-### TBC
-
 **When?** - Thursday 29th June - Selection Box 5 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660292682187)
 
-# Friday 30th June
+# Friday 30th June - Selection Box 6
 
 ## Prof. Kevin Cowtan
 *Professor, Chemistry*
@@ -235,4 +228,3 @@ A fun look at spin-up research environments. Bring a laptop!
 
 **When?** - Friday 30th June - Selection Box 6 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660293504647)
-
