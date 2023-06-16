@@ -19,8 +19,8 @@ sidebar:
 ---
 
 # Event details below:
-##### All tickets are available on our eventbrite site [here](https://www.eventbrite.co.uk/o/data-discoveries-university-of-york-66919670423).
-##### If you want to access the schedule calendar, you can use this link [here](https://calendar.google.com/calendar/u/0?cid=Y18zYjI0OWY2YThlN2MyYTgxZGM1MmJmM2U4ZDMzZjkwZDNlOGZmNDQxNGM1ODAxMzZlZjE5MDU4YzNmMmMyZjE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+#### All tickets are available on our eventbrite site [here](https://www.eventbrite.co.uk/o/data-discoveries-university-of-york-66919670423).
+#### If you want to access the schedule calendar, you can use this link [here](https://calendar.google.com/calendar/u/0?cid=Y18zYjI0OWY2YThlN2MyYTgxZGM1MmJmM2U4ZDMzZjkwZDNlOGZmNDQxNGM1ODAxMzZlZjE5MDU4YzNmMmMyZjE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ## Launch Event
 
@@ -32,10 +32,11 @@ Monday 19th June 2023
 B/M/052 and B/M/023, next to the Biology Atrium, University of York Campus West
 
 ### Who's Speaking?
-[Cristin Merrit - CMO, Alces Flight](https://charlierose22.github.io/data-discoveries/speakers/#cristin-merrit)
+###### [Cristin Merrit, Alces Flight - Sustainable High Performance Computing (HPC) through Open-Source](https://charlierose22.github.io/data-discoveries/speakers/#cristin-merrit)
+###### [Emma Rand, Biology - You Can Make an R Package Too!](https://charlierose22.github.io/data-discoveries/speakers/#emma-rand)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/652080740047 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/652080740047)
 
 ## Selection Box 1
 
@@ -47,11 +48,31 @@ Tuesday 20th June 2023
 B/M/023, next to the Biology Atrium, University of York Campus West
 
 ### Who's Speaking?
-[Dr. Alastair Droop](https://charlierose22.github.io/data-discoveries/speakers/#dr-alastair-droop)
-[Dr. Vincent Hughes](https://charlierose22.github.io/data-discoveries/speakers/#dr-vincent-hughes)
+###### [Dr. Alastair Droop, Biology Technology Facility - An Introduction to Rust for Scientific Computing](https://charlierose22.github.io/data-discoveries/speakers/#dr-alastair-droop)
+###### [Dr. Vincent Hughes, Language and Linguistic Science - Interpretable AI, What Are Speaker Recognition Systems Capturing?](https://charlierose22.github.io/data-discoveries/speakers/#dr-vincent-hughes)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/658402097397 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/658402097397)
+
+## The role of Wikidata Within the Research Lifecycle
+
+### When?
+Wednesday 21st June 2023
+1000 - 1230
+
+### Where?
+Online
+
+### Who's Speaking?
+###### [Dr. Martin Poulter](https://charlierose22.github.io/data-discoveries/speakers/#dr-martin-poulter)
+###### [Dr. Lucy Hinnie, Wikimedia UK](https://charlierose22.github.io/data-discoveries/speakers/#dr-lucy-hinnie)
+###### [Dr. Richard Nevell, Wikimedia UK](https://charlierose22.github.io/data-discoveries/speakers/#dr-richard-nevell)
+###### [Dr. Fran Allfrey, Archaeology](https://charlierose22.github.io/data-discoveries/speakers/#dr-fran-allfrey)
+###### [Ruth Elder, Library, Archives and Learning Services](https://charlierose22.github.io/data-discoveries/speakers/#ruth-elder)
+
+### Tickets
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/the-role-of-wikidata-within-the-research-lifecycle-tickets-637971609257)
+
 
 ## Selection Box 2
 
@@ -63,11 +84,11 @@ Wednesday 21st June 2023
 B/M/023, next to the Biology Atrium, University of York Campus West
 
 ### Who's Speaking?
-[Dr. Brennen Fagan](https://charlierose22.github.io/data-discoveries/speakers/#dr-brennen-fagan)
-[Dr. Sandy McDonald](https://charlierose22.github.io/data-discoveries/speakers/#dr-sandy-macdonald)
+###### [Dr. Brennen Fagan, Mathematics - History, Mathematics and Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-brennen-fagan)
+###### [Dr. Sandy McDonald, Biology Technology Facility - Citizen Science Aanalysis of Environmental Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-sandy-macdonald)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/660285360287 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/660285360287)
 
 ## Selection Box 3
 
@@ -79,11 +100,11 @@ Monday 26th June 2023
 P/L/005 - Physics, University of York Campus West
 
 ### Who's Speaking?
-[Dr. Philip Garnett](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-garnett)
-[Dr. Dave Shaw](https://charlierose22.github.io/data-discoveries/speakers/#dr-david-shaw)
+###### [Dr. Philip Garnett, Institute for Safe Autonomy - The Ethics of Home Environment Monitoring](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-garnett)
+###### [Dr. Dave Shaw, Environment and Geography - Atmospheric Chemistry, The Challenges of Working With Experimentalists](https://charlierose22.github.io/data-discoveries/speakers/#dr-david-shaw)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/660291699247 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/660291699247)
 
 ## Selection Box 4
 
@@ -97,12 +118,12 @@ Tuesday 27th June 2023
 B/T/005, Biology, University of York Campus West
 
 ### Who's Speaking?
-[Dr. Jess Hargreaves](https://charlierose22.github.io/data-discoveries/speakers/#dr-jessica-hargreaves)
-[Prof. Matt Probert](https://charlierose22.github.io/data-discoveries/speakers/#prof-matt-probert)
-[Prof. Tom Stoneham](https://charlierose22.github.io/data-discoveries/speakers/#prof-tom-stoneham)
+###### [Dr. Jess Hargreaves, Mathematics - How to Visualise Football Data Using R](https://charlierose22.github.io/data-discoveries/speakers/#dr-jessica-hargreaves)
+###### [Prof. Matt Probert, Physics - Machine-learned Acceleration for Molecular Dynamics Calculations](https://charlierose22.github.io/data-discoveries/speakers/#prof-matt-probert)
+###### [Prof. Tom Stoneham, Philosophy - ‘Here’s My Number, So Call Me, Maybe’: Why Your Contacts List is an Ethical Issue](https://charlierose22.github.io/data-discoveries/speakers/#prof-tom-stoneham)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/660287596977 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/660287596977)
 
 ## How Can RSEs Enhance Your Research
 
@@ -114,12 +135,12 @@ Tuesday 27th June 2023
 B/T/005, Biology, University of York Campus West
 
 ### Who's Speaking?
-[Dr. Emma Barnes](https://charlierose22.github.io/data-discoveries/speakers/#dr-emma-barnes)
-[Dr. Phil Harrison](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-harrison)
-[Dr. Stuart Lacy](https://charlierose22.github.io/data-discoveries/speakers/#dr-stuart-lacy)
+###### [Dr. Emma Barnes, IT Services](https://charlierose22.github.io/data-discoveries/speakers/#dr-emma-barnes)
+###### [Dr. Phil Harrison](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-harrison)
+###### [Dr. Stuart Lacy](https://charlierose22.github.io/data-discoveries/speakers/#dr-stuart-lacy)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/657713327267 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/657713327267)
 
 ## Selection Box 5
 
@@ -131,10 +152,12 @@ Thursday 29th June 2023
 B/M/052, next to the Biology Atrium, University of York Campus West
 
 ### Who's Speaking?
-[Dr. Cylcia Bolibaugh](https://charlierose22.github.io/data-discoveries/speakers/#dr-cyclia-bolibaugh)
+###### [Dr. Cylcia Bolibaugh, Education - Towards a Data Commons in Language Research](https://charlierose22.github.io/data-discoveries/speakers/#dr-cyclia-bolibaugh)
+###### [Dr. Malak Olamaie, York St. John](https://charlierose22.github.io/data-discoveries/speakers/#dr-malak-olamaie)
+###### [Monika Gonka, Biology](https://charlierose22.github.io/data-discoveries/speakers/#monika-gonka)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/660292682187 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/660292682187)
 
 ## Selection Box 6
 
@@ -146,11 +169,12 @@ Friday 30th June 2023
 B/M/052, next to the Biology Atrium, University of York Campus West
 
 ### Who's Speaking?
-[Prof. Kevin Cowtan](https://charlierose22.github.io/data-discoveries/speakers/#prof-kevin-cowtan)
-[Siobhan Dunlop](https://charlierose22.github.io/data-discoveries/speakers/#siobhan-dunlop)
+###### [Prof. Kevin Cowtan, Chemistry - What Does the “Mean” in “Global Mean Temperature” Actually Mean?](https://charlierose22.github.io/data-discoveries/speakers/#prof-kevin-cowtan)
+###### [Siobhan Dunlop, Library, Archives and Learning Services - Hello Coding World: Creating Resources for Introductory Coding](https://charlierose22.github.io/data-discoveries/speakers/#siobhan-dunlop)
+###### [Chris Coates, Logicalis - Shared Teaching Environments for Fun and Profit](https://charlierose22.github.io/data-discoveries/speakers/#chris-coates)
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/660293504647 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/660293504647)
 
 ## Close and Awards
 
@@ -162,7 +186,7 @@ Wednesday 5th July 2023
 B/T/005, Biology, University of York Campus West
 
 ### Tickets
-<a> https://www.eventbrite.co.uk/e/658380653257 </a>
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/658380653257)
 
 ## Access the schedule calendar here:
 <p> <iframe src="https://calendar.google.com/calendar/embed?src=c_3b249f6a8e7c2a81dc52bf3e8d33f90d3e8ff4414c580136ef19058c3f2c2f17%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </p>
