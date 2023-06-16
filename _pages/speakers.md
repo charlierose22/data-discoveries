@@ -105,7 +105,9 @@ A brief overview of my Raspberry Pi-powered environmental data collection and an
 **When?** - Wednesday 21st June - Selection Box 2 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660285360287)
 
-# Monday 26th June - Selection Box 3
+# Thursday 22nd June - Selection Box 3
+
+# Monday 26th June - Selection Box 4
 
 ## Dr. Philip Garnett
 *Senior Lecturer, Management; Society And Ethics Pillar Lead, Institute for Safe Autonomy*
@@ -114,7 +116,7 @@ A brief overview of my Raspberry Pi-powered environmental data collection and an
 
 We have a pilot project starting at the Institute for Safe Autonomy looking at internal environment monitoring of social housing. This talk will discuss the challenges and opportunities, both ethical and technical.
 
-**When?** - Monday 26th June - Selection Box 3 -
+**When?** - Monday 26th June - Selection Box 4 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660291699247)
 
 ## Dr. David Shaw
@@ -124,10 +126,10 @@ We have a pilot project starting at the Institute for Safe Autonomy looking at i
 
 Getting useful data from experiment to model in atmospheric chemistry, from experimental design to data formatting and analysis.
 
-**When?** - Monday 26th June - Selection Box 3 -
+**When?** - Monday 26th June - Selection Box 4 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660291699247)
 
-# Tuesday 27th June - Selection Box 4
+# Tuesday 27th June - Selection Box 5
 
 ## Dr. Jessica Hargreaves
 *Lecturer in Data Science, Mathematics*
@@ -136,7 +138,7 @@ Getting useful data from experiment to model in atmospheric chemistry, from expe
 
 A "code-along" tutorial on creating: shot; pass and possession maps in R. (Suitable for all who have used R before.)
 
-**When?** - Tuesday 27th June - Selection Box 4 -
+**When?** - Tuesday 27th June - Selection Box 5 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660287596977)
 
 ## Prof. Matt Probert
@@ -146,7 +148,7 @@ A "code-along" tutorial on creating: shot; pass and possession maps in R. (Suita
 
 I will discuss our experience to date using on-the-fly fitting and evaluation of a Machine Learning interatomic potential, as a way of significantly accelerating first principles molecular dynamics calculations of materials, without loss of accuracy compared to the underlying first principles method. This is in contrast to the more established approach of carefully fitting an ML potential to a wide body of data calculated using a first principles method, and then using that in a calculation of the dynamics.
 
-**When?** - Tuesday 27th June - Selection Box 4 -
+**When?** - Tuesday 27th June - Selection Box 5 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660287596977)
 
 ## Prof. Tom Stoneham
@@ -156,7 +158,7 @@ I will discuss our experience to date using on-the-fly fitting and evaluation of
 
 We all know our phones are treasure troves of personal data. One aspect of this is the Contacts list. In this talk I explore some ethical issues that arise from the ordinary practice of giving, receiving and storing contact information.
 
-**When?** - Tuesday 27th June - Selection Box 4 -
+**When?** - Tuesday 27th June - Selection Box 5 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660287596977)
 
 # Tuesday 27th June
@@ -173,7 +175,7 @@ We all know our phones are treasure troves of personal data. One aspect of this 
 **When?** - Tuesday 27th June - "How can RSEs enhance your research?" -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/657713327267)
 
-# Thursday 29th June - Selection Box 5
+# Thursday 29th June - Selection Box 6
 
 ## Dr. Cyclia Bolibaugh
 *Lecturer, Education*
@@ -182,22 +184,22 @@ We all know our phones are treasure troves of personal data. One aspect of this 
 
 Colleagues in the life sciences have accelerated and democratised research by creating  interactive, community-governed software platforms that enable the integration, reuse and analysis of large-scale data. Could the language learning research community achieve something similar? In this talk I’ll report the findings from an ongoing evaluation of the FAIR-ness, completeness and reusability of datasets that have been archived in the IRIS (Instruments and data for research in language studies) repository with a view to identifying challenges and opportunities ahead.
 
-**When?** - Thursday 29th June - Selection Box 5 -
+**When?** - Thursday 29th June - Selection Box 6 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660292682187)
 
 ## Dr. Malak Olamaie
 *Senior lecturer in Bayesian Data Science, York St. John University*
 
-**When?** - Thursday 29th June - Selection Box 5 -
+**When?** - Thursday 29th June - Selection Box 6 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660292682187)
 
 ## Monika Gonka
 *PhD Student, Biology*
 
-**When?** - Thursday 29th June - Selection Box 5 -
+**When?** - Thursday 29th June - Selection Box 6 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660292682187)
 
-# Friday 30th June - Selection Box 6
+# Friday 30th June - Selection Box 7
 
 ## Prof. Kevin Cowtan
 *Professor, Chemistry*
@@ -206,7 +208,7 @@ Colleagues in the life sciences have accelerated and democratised research by cr
 
 This one weird trick from the 1970s could have avoided the false pause in global warming.
 
-**When?** - Friday 30th June - Selection Box 6 -
+**When?** - Friday 30th June - Selection Box 7 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660293504647)
 
 ## Siobhan Dunlop
@@ -216,7 +218,7 @@ This one weird trick from the 1970s could have avoided the false pause in global
 
 The Digital Inclusion, Skills and Creativity team within Library, Archives and Learning Services at the University of York have a range of introductory coding resources and workshops. In this talk we'll discuss the process of creating introductory coding resources that are open and approachable to everyone, and explore what is available, whether someone is looking for data analysis or making video games.
 
-**When?** - Friday 30th June - Selection Box 6 -
+**When?** - Friday 30th June - Selection Box 7 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660293504647)
 
 ## Chris Coates
@@ -226,5 +228,5 @@ The Digital Inclusion, Skills and Creativity team within Library, Archives and L
 
 A fun look at spin-up research environments. Bring a laptop!
 
-**When?** - Friday 30th June - Selection Box 6 -
+**When?** - Friday 30th June - Selection Box 7 -
 [**Find tickets here.**](https://www.eventbrite.co.uk/e/660293504647)
