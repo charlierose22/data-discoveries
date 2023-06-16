@@ -93,6 +93,23 @@ B/M/023, next to the Biology Atrium, University of York Campus West
 ## Selection Box 3
 
 ### When?
+Thursday 22nd June 2023
+1030 - 1200
+
+### Where?
+P/L/005 - Physics, University of York Campus West
+
+### Who's Speaking?
+###### 
+###### 
+
+### Tickets
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/661130076857)
+
+
+## Selection Box 4
+
+### When?
 Monday 26th June 2023
 1030 - 1200
 
@@ -102,11 +119,12 @@ P/L/005 - Physics, University of York Campus West
 ### Who's Speaking?
 ###### [Dr. Philip Garnett, Institute for Safe Autonomy - The Ethics of Home Environment Monitoring](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-garnett)
 ###### [Dr. Dave Shaw, Environment and Geography - Atmospheric Chemistry, The Challenges of Working With Experimentalists](https://charlierose22.github.io/data-discoveries/speakers/#dr-david-shaw)
+###### [Dr. Hamed Ahmadi, Physics, Engineering and Technology]()
 
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/660291699247)
 
-## Selection Box 4
+## Selection Box 5
 
 Please bring along a laptop to get the most out of this session!
 
@@ -142,7 +160,7 @@ B/T/005, Biology, University of York Campus West
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/657713327267)
 
-## Selection Box 5
+## Selection Box 6
 
 ### When?
 Thursday 29th June 2023
@@ -159,7 +177,7 @@ B/M/052, next to the Biology Atrium, University of York Campus West
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/660292682187)
 
-## Selection Box 6
+## Selection Box 7
 
 ### When?
 Friday 30th June 2023
