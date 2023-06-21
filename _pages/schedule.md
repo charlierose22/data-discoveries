@@ -86,6 +86,7 @@ B/M/023, next to the Biology Atrium, University of York Campus West
 ### Who's Speaking?
 ###### [Dr. Brennen Fagan, Mathematics - History, Mathematics and Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-brennen-fagan)
 ###### [Dr. Sandy McDonald, Biology Technology Facility - Citizen Science Aanalysis of Environmental Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-sandy-macdonald)
+###### [Dr. Tom Collins, Music]()
 
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/660285360287)
@@ -100,8 +101,8 @@ Thursday 22nd June 2023
 P/L/005 - Physics, University of York Campus West
 
 ### Who's Speaking?
-###### 
-###### 
+###### [Stuart Jarvis, Health Sciences]()
+###### [Chenyu Gao, Music - Discovering Repetitive Patterns in Music]()
 
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/661130076857)
@@ -119,7 +120,7 @@ P/L/005 - Physics, University of York Campus West
 ### Who's Speaking?
 ###### [Dr. Philip Garnett, Institute for Safe Autonomy - The Ethics of Home Environment Monitoring](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-garnett)
 ###### [Dr. Dave Shaw, Environment and Geography - Atmospheric Chemistry, The Challenges of Working With Experimentalists](https://charlierose22.github.io/data-discoveries/speakers/#dr-david-shaw)
-###### [Dr. Hamed Ahmadi, Physics, Engineering and Technology]()
+###### [Dr. Hamed Ahmadi, Physics, Engineering and Technology - 6G: the AI-based generation of communications and networking]()
 
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/660291699247)
@@ -199,6 +200,10 @@ B/M/052, next to the Biology Atrium, University of York Campus West
 ### When?
 Wednesday 5th July 2023
 1400 - 1600
+
+### Who's Speaking?
+###### Prof. Dan Franks, causa
+###### Dr. Tom Collins, Music
 
 ### Where?
 B/T/005, Biology, University of York Campus West
