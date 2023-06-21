@@ -101,7 +101,7 @@ Thursday 22nd June 2023
 P/L/005 - Physics, University of York Campus West
 
 ### Who's Speaking?
-###### [Stuart Jarvis, Health Sciences]()
+###### [Dr. Stuart Jarvis, Health Sciences]()
 ###### [Chenyu Gao, Music - Discovering Repetitive Patterns in Music]()
 
 ### Tickets
