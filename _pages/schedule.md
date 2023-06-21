@@ -22,57 +22,6 @@ sidebar:
 #### All tickets are available on our eventbrite site [here](https://www.eventbrite.co.uk/o/data-discoveries-university-of-york-66919670423).
 #### If you want to access the schedule calendar, you can use this link [here](https://calendar.google.com/calendar/u/0?cid=Y18zYjI0OWY2YThlN2MyYTgxZGM1MmJmM2U4ZDMzZjkwZDNlOGZmNDQxNGM1ODAxMzZlZjE5MDU4YzNmMmMyZjE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-## Launch Event
-
-### When?
-Monday 19th June 2023
-1100 - 1400
-
-### Where?
-B/M/052 and B/M/023, next to the Biology Atrium, University of York Campus West
-
-### Who's Speaking?
-###### [Cristin Merrit, Alces Flight - Sustainable High Performance Computing (HPC) through Open-Source](https://charlierose22.github.io/data-discoveries/speakers/#cristin-merrit)
-###### [Emma Rand, Biology - You Can Make an R Package Too!](https://charlierose22.github.io/data-discoveries/speakers/#emma-rand)
-
-### Tickets
-[Link to eventbrite.](https://www.eventbrite.co.uk/e/652080740047)
-
-## Selection Box 1
-
-### When?
-Tuesday 20th June 2023
-1030 - 1200
-
-### Where?
-B/M/023, next to the Biology Atrium, University of York Campus West
-
-### Who's Speaking?
-###### [Dr. Alastair Droop, Biology Technology Facility - An Introduction to Rust for Scientific Computing](https://charlierose22.github.io/data-discoveries/speakers/#dr-alastair-droop)
-###### [Dr. Vincent Hughes, Language and Linguistic Science - Interpretable AI, What Are Speaker Recognition Systems Capturing?](https://charlierose22.github.io/data-discoveries/speakers/#dr-vincent-hughes)
-
-### Tickets
-[Link to eventbrite.](https://www.eventbrite.co.uk/e/658402097397)
-
-## The role of Wikidata Within the Research Lifecycle
-
-### When?
-Wednesday 21st June 2023
-1000 - 1230
-
-### Where?
-Online
-
-### Who's Speaking?
-###### [Dr. Martin Poulter](https://charlierose22.github.io/data-discoveries/speakers/#dr-martin-poulter)
-###### [Dr. Lucy Hinnie, Wikimedia UK](https://charlierose22.github.io/data-discoveries/speakers/#dr-lucy-hinnie)
-###### [Dr. Richard Nevell, Wikimedia UK](https://charlierose22.github.io/data-discoveries/speakers/#dr-richard-nevell)
-###### [Dr. Fran Allfrey, Archaeology](https://charlierose22.github.io/data-discoveries/speakers/#dr-fran-allfrey)
-###### [Ruth Elder, Library, Archives and Learning Services](https://charlierose22.github.io/data-discoveries/speakers/#ruth-elder)
-
-### Tickets
-[Link to eventbrite.](https://www.eventbrite.co.uk/e/the-role-of-wikidata-within-the-research-lifecycle-tickets-637971609257)
-
 
 ## Selection Box 2
 
@@ -211,5 +160,59 @@ B/T/005, Biology, University of York Campus West
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/658380653257)
 
+# PAST EVENTS
+
+## Launch Event
+
+### When?
+Monday 19th June 2023
+1100 - 1400
+
+### Where?
+B/M/052 and B/M/023, next to the Biology Atrium, University of York Campus West
+
+### Who's Speaking?
+###### [Cristin Merrit, Alces Flight - Sustainable High Performance Computing (HPC) through Open-Source](https://charlierose22.github.io/data-discoveries/speakers/#cristin-merrit)
+###### [Emma Rand, Biology - You Can Make an R Package Too!](https://charlierose22.github.io/data-discoveries/speakers/#emma-rand)
+
+### Tickets
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/652080740047)
+
+## Selection Box 1
+
+### When?
+Tuesday 20th June 2023
+1030 - 1200
+
+### Where?
+B/M/023, next to the Biology Atrium, University of York Campus West
+
+### Who's Speaking?
+###### [Dr. Alastair Droop, Biology Technology Facility - An Introduction to Rust for Scientific Computing](https://charlierose22.github.io/data-discoveries/speakers/#dr-alastair-droop)
+###### [Dr. Vincent Hughes, Language and Linguistic Science - Interpretable AI, What Are Speaker Recognition Systems Capturing?](https://charlierose22.github.io/data-discoveries/speakers/#dr-vincent-hughes)
+
+### Tickets
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/658402097397)
+
+## The role of Wikidata Within the Research Lifecycle
+
+### When?
+Wednesday 21st June 2023
+1000 - 1230
+
+### Where?
+Online
+
+### Who's Speaking?
+###### [Dr. Martin Poulter](https://charlierose22.github.io/data-discoveries/speakers/#dr-martin-poulter)
+###### [Dr. Lucy Hinnie, Wikimedia UK](https://charlierose22.github.io/data-discoveries/speakers/#dr-lucy-hinnie)
+###### [Dr. Richard Nevell, Wikimedia UK](https://charlierose22.github.io/data-discoveries/speakers/#dr-richard-nevell)
+###### [Dr. Fran Allfrey, Archaeology](https://charlierose22.github.io/data-discoveries/speakers/#dr-fran-allfrey)
+###### [Ruth Elder, Library, Archives and Learning Services](https://charlierose22.github.io/data-discoveries/speakers/#ruth-elder)
+
+### Tickets
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/the-role-of-wikidata-within-the-research-lifecycle-tickets-637971609257)
+
 ## Access the schedule calendar here:
+You can add this link to your own personal calendar!
 <p> <iframe src="https://calendar.google.com/calendar/embed?src=c_3b249f6a8e7c2a81dc52bf3e8d33f90d3e8ff4414c580136ef19058c3f2c2f17%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </p>
