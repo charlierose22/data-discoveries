@@ -129,6 +129,8 @@ B/M/052, next to the Biology Atrium, University of York Campus West
 
 ## Selection Box 7
 
+Please bring along a laptop to get the most out of this session!
+
 ### When?
 Friday 30th June 2023
 1030 - 1200
