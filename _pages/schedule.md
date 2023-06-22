@@ -22,23 +22,9 @@ sidebar:
 #### All tickets are available on our eventbrite site [here](https://www.eventbrite.co.uk/o/data-discoveries-university-of-york-66919670423).
 #### If you want to access the schedule calendar, you can use this link [here](https://calendar.google.com/calendar/u/0?cid=Y18zYjI0OWY2YThlN2MyYTgxZGM1MmJmM2U4ZDMzZjkwZDNlOGZmNDQxNGM1ODAxMzZlZjE5MDU4YzNmMmMyZjE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-
-## Selection Box 2
-
-### When?
-Wednesday 21st June 2023
-1230 - 1400
-
-### Where?
-B/M/023, next to the Biology Atrium, University of York Campus West
-
-### Who's Speaking?
-###### [Dr. Brennen Fagan, Mathematics - History, Mathematics and Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-brennen-fagan)
-###### [Dr. Sandy McDonald, Biology Technology Facility - Citizen Science Aanalysis of Environmental Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-sandy-macdonald)
-###### [Dr. Tom Collins, Music]()
-
-### Tickets
-[Link to eventbrite.](https://www.eventbrite.co.uk/e/660285360287)
+## Access the schedule calendar here:
+You can add this link to your own personal calendar!
+<p> <iframe src="https://calendar.google.com/calendar/embed?src=c_3b249f6a8e7c2a81dc52bf3e8d33f90d3e8ff4414c580136ef19058c3f2c2f17%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </p>
 
 ## Selection Box 3
 
@@ -215,6 +201,19 @@ Online
 ### Tickets
 [Link to eventbrite.](https://www.eventbrite.co.uk/e/the-role-of-wikidata-within-the-research-lifecycle-tickets-637971609257)
 
-## Access the schedule calendar here:
-You can add this link to your own personal calendar!
-<p> <iframe src="https://calendar.google.com/calendar/embed?src=c_3b249f6a8e7c2a81dc52bf3e8d33f90d3e8ff4414c580136ef19058c3f2c2f17%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </p>
+## Selection Box 2
+
+### When?
+Wednesday 21st June 2023
+1230 - 1400
+
+### Where?
+B/M/023, next to the Biology Atrium, University of York Campus West
+
+### Who's Speaking?
+###### [Dr. Brennen Fagan, Mathematics - History, Mathematics and Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-brennen-fagan)
+###### [Dr. Sandy McDonald, Biology Technology Facility - Citizen Science Aanalysis of Environmental Data](https://charlierose22.github.io/data-discoveries/speakers/#dr-sandy-macdonald)
+###### [Dr. Tom Collins, Music]()
+
+### Tickets
+[Link to eventbrite.](https://www.eventbrite.co.uk/e/660285360287)
