@@ -36,7 +36,7 @@ Thursday 22nd June 2023
 P/L/005 - Physics, University of York Campus West
 
 ### Who's Speaking?
-###### [Dr. Stuart Jarvis, Health Sciences]()
+###### [Dr. Stuart Jarvis, Health Sciences - Developing a medical complexity score from routinely collected healthcare data]()
 ###### [Chenyu Gao, Music - Discovering Repetitive Patterns in Music]()
 
 ### Tickets
