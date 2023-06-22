@@ -33,7 +33,7 @@ Thursday 22nd June 2023
 1030 - 1200
 
 ### Where?
-P/L/005 - Physics, University of York Campus West
+P/L/005 - Physics, Exhibition Centre, University of York Campus West
 
 ### Who's Speaking?
 ###### [Dr. Stuart Jarvis, Health Sciences - Developing a medical complexity score from routinely collected healthcare data]()
@@ -50,7 +50,7 @@ Monday 26th June 2023
 1030 - 1200
 
 ### Where?
-P/L/005 - Physics, University of York Campus West
+P/L/005 - Physics, Exhibition Centre, University of York Campus West
 
 ### Who's Speaking?
 ###### [Dr. Philip Garnett, Institute for Safe Autonomy - The Ethics of Home Environment Monitoring](https://charlierose22.github.io/data-discoveries/speakers/#dr-philip-garnett)
