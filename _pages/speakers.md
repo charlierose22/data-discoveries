@@ -177,7 +177,7 @@ We all know our phones are treasure troves of personal data. One aspect of this 
 
 # Thursday 29th June - Selection Box 6
 
-## Dr. Cyclia Bolibaugh
+## Dr. Cylcia Bolibaugh
 *Lecturer, Education*
 
 ### Towards a Data Commons in Language Research
